@@ -12,14 +12,14 @@ Some of my project works and portfolio is also been added in below.
           95.3% - 12th board<br>
           94% - 10th board
 <br><br>
+[Projects](https://github.com/AdithyanBabu)<br>
+[Portfolio](https://adithyanbabu.github.io/AdithyanBabu/)
+<br><br>
 ### Skills:
 **Programming Languages:** <br>
 C, Python, Java, HTML, CSS, SQL,C++<br>
 **OS:**<br>
 Windows, Linux
-<br><br>
-[Projects](https://github.com/AdithyanBabu)<br>
-[Portfolio](https://adithyanbabu.github.io/AdithyanBabu/)
 <br><br>
 ### Known Languages:<br>
 English, Malayalam, Tamil, Hindi
