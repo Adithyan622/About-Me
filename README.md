@@ -14,7 +14,6 @@ Some of my project works and portfolio is also been added in below.
 <br><br>
 [Projects](https://github.com/AdithyanBabu)<br>
 [Portfolio](https://adithyanbabu.github.io/AdithyanBabu/)
-<br><br>
 ### Skills:
 **Programming Languages:** <br>
 C, Python, Java, HTML, CSS, SQL,C++<br>
