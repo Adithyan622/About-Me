@@ -10,7 +10,7 @@ Some of my project works and portfolio is also been added in below.
 <br><br>
 ***2008-2020*** SNCS (schooling)<br>
           95.3% - 12th board<br>
-          94% - 10th board<br>
+          94% - 10th board
 <br><br>
 ### Skills:<br>
 **Programming Languages:** <br>
