@@ -5,12 +5,12 @@ A final year Btech student and a data scientist enthusiast.  I am interested in 
 I'm currently working in a Agro project, where we are builting an app for the disease detection in crops implemented by integrating an AI model which me and my team built from the scratch.
 Some of my project works and portfolio is also been added in below.
 <br><br>
-**2020-2024** MBCET batch
+***2020-2024*** MBCET batch<br>
           8.8 CGPA
 <br><br>
-**2008-2020** SNCS (schooling)
-          95.3% - 12th board
-          94% - 10th board
+***2008-2020*** SNCS (schooling)<br>
+          95.3% - 12th board<br>
+          94% - 10th board<br>
 <br><br>
 ### Skills:<br>
 **Programming Languages:** <br>
