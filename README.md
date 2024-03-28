@@ -6,11 +6,11 @@ I'm currently working in a Agro project, where we are builting an app for the di
 Some of my project works and portfolio is also been added in below.
 <br><br>
 ***2020-2024*** MBCET batch<br>
-/t8.8 CGPA
+  8.8 CGPA
 <br><br>
 ***2008-2020*** SNCS (schooling)<br>
-/t95.3% - 12th board<br>
-/th94% - 10th board
+  95.3% - 12th board<br>
+  94% - 10th board
 <br><br>
 [Projects](https://github.com/AdithyanBabu)<br>
 [Portfolio](https://adithyanbabu.github.io/AdithyanBabu/)
