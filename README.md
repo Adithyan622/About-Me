@@ -7,7 +7,7 @@ Some of my project works and portfolio is also been added in below.
 <br><br>
 ***2020-2024*** MBCET batch<br>
 &emsp; 8.8 CGPA
-<br><br>
+<br>
 ***2008-2020*** SNCS (schooling)<br>
 &emsp; 95.3% - 12th board<br>
 &emsp; 94% - 10th board
