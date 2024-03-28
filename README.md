@@ -12,7 +12,7 @@ Some of my project works and portfolio is also been added in below.
           95.3% - 12th board<br>
           94% - 10th board
 <br><br>
-### Skills:<br>
+### Skills:
 **Programming Languages:** <br>
 C, Python, Java, HTML, CSS, SQL,C++<br>
 **OS:**<br>
