@@ -19,6 +19,5 @@ Some of my project works and portfolio is also been added in below.
 C, Python, Java, HTML, CSS, SQL,C++<br>
 **OS:**<br>
 Windows, Linux
-<br><br>
 ### Known Languages:<br>
 English, Malayalam, Tamil, Hindi
