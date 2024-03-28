@@ -16,8 +16,8 @@ Some of my project works and portfolio is also been added in below.
 [Portfolio](https://adithyanbabu.github.io/AdithyanBabu/)
 ### Skills:
 **Programming Languages:** <br>
-C, Python, Java, HTML, CSS, SQL,C++<br>
+&emsp; C, Python, Java, HTML, CSS, SQL,C++<br>
 **OS:**<br>
-Windows, Linux
+&emsp; Windows, Linux
 ### Known Languages:<br>
-English, Malayalam, Tamil, Hindi
+&emsp; English, Malayalam, Tamil, Hindi
